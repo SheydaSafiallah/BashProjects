@@ -1,5 +1,9 @@
-# mybashcodes
-"Bash Scripting"\
-  --fundamentals\
-  --tools\
-I decided to share my bash scripting homework and tools :)
+# 🐚 Bash Scripting Projects
+
+This repository contains my university Bash scripting projects.
+
+## 🧠 How to Run
+
+```bash
+chmod +x script-name.sh
+./script-name.sh
